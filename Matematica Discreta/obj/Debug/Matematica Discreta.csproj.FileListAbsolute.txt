@@ -1,0 +1,93 @@
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+C:\Users\rodol\OneDrive\Desktop\Pasando Mate Discreta a C$\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.SuggestedBindingRedirects.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.SuggestedBindingRedirects.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V2\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.SuggestedBindingRedirects.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form2.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form2.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V3\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form2.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form3.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+C:\Users\cchya\OneDrive\Documentos\UPC\3° ciclo\Matemática Discreta\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.SuggestedBindingRedirects.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form2.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Form3.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V6\Matematica Discreta V4\Matematica Discreta V3\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\bin\Debug\Matematica Discreta.exe.config
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\bin\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\bin\Debug\Matematica Discreta.pdb
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.AssemblyReference.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.SuggestedBindingRedirects.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica_Discreta.Form1.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica_Discreta.Form2.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica_Discreta.Form3.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica_Discreta.Properties.Resources.resources
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.GenerateResource.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica Discreta.csproj.CoreCompileInputs.cache
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica Discreta.exe
+H:\My Portfolio (Projects created)\UPC\Discrete Maths\C# transpilation\Matematica Discreta V7\Matematica Discreta\obj\Debug\Matematica Discreta.pdb
